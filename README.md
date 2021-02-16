@@ -1,6 +1,8 @@
 # yt2rss
-Python program for turning YouTube Channel links into RSS links.
 
+script for making youtube channel urls into rss links
 
-Place a txt file with each channel url on a separate line into a text file and place
-into the same directory as the script.
+## How to use
+Input is a text file that contains youtube channel urls on each line
+then call the script
+  yt2rss file.txt
